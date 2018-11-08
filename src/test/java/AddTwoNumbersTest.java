@@ -6,12 +6,17 @@ import java.io.IOException;
 
 public class AddTwoNumbersTest {
 
-    @Parameterized.Parameters
     @Test
     public void addTest() throws IOException {
         File f = new File("ABC.txt");
         f.createNewFile();
         System.out.print("..........Added......" );
+
+    }
+
+    @Test
+    public void pollingTest() throws IOException {
+        System.out.print("..........Polling Test......" );
 
     }
 }
