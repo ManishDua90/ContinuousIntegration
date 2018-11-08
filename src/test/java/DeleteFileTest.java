@@ -2,7 +2,7 @@ import org.junit.Test;
 
 import java.io.File;
 
-public class DeleteFile {
+public class DeleteFileTest {
     @Test
     public void delete()
     {
