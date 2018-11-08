@@ -16,7 +16,7 @@ public class AddTwoNumbersTest {
 
     @Test
     public void pollingTest() throws IOException {
-        System.out.print("......Polling Test......" );
+        System.out.print("......Polling Test....." );
 
     }
 }
